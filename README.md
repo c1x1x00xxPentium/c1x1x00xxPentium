@@ -44,6 +44,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1x1x00xxPentium&show_icons=true&hide_border=true&theme=radical">
 </p>
 </div>
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=c1x1x00xxPentium" alt="visitor badge"/>
+</p>
 <br>
 
 
