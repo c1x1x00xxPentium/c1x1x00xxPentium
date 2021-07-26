@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:JapanMania999@protonmail.com?subject=Hello%20Linux_user!"><img src="https://img.shields.io/badge/protonmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/></a>&nbsp;
+<a href="mailto:protonmail.com?subject=Hello%20Linux_user!"><img src="https://img.shields.io/badge/protonmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/></a>&nbsp;
 </p>
 
 <br>
