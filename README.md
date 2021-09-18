@@ -2,8 +2,14 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
 <p>
-<h1 align="center"><b>Hello there, I'm Linux User 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Linux User 👋</b></h1>
+  <br>
+  <p align="center">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/c1x1x00xxPentium?style=for-the-badge">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/c1x1x00xxPentium?style=for-the-badge">
 </p>
+</p>
+
 
 <p align="center">
 <br>
